@@ -1,0 +1,1 @@
+Example development of platform automation with the new automation pattern from telmore-platform-automation.
